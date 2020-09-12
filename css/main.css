@@ -73,8 +73,11 @@ margin: 30px 0 56px;
 
 }
 .vh-dependend{
-	height: 80vh;
+	height: 35vh;
+	display: flex;
+	align-items: center;
 }
+
 .be-static{
 position: static; 
 }
