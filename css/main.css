@@ -35,7 +35,7 @@ background: #3726F2;
 color:#fff;
 }
 .header{
-
+height: 95vh;
 }
 .nav{
 	padding-top: 59px;
@@ -86,7 +86,7 @@ position: static;
 	left: 0;
 	bottom: 20%;
 	width: 40%;
-	height: 35%;
+	height: 33%;
 	display: block;
 	background: url('../img/video.jpg') no-repeat center center;
 	display: flex;
@@ -100,4 +100,30 @@ position: static;
 	width: 65px;
 	height: 65px;
 
+}
+.problems{
+	padding-top: 137px; /*задается для секций из-за бага*/
+}
+.about{
+
+}
+.about-title{
+	font-size: 38px ;
+	margin-bottom: 30px;
+}
+.about__text{
+
+}
+.about__author{
+background: url('../img/author.jpg') no-repeat left center;
+padding-left: 96px;
+/*height: 65px;*/
+padding: 7px 0 7px 96px;
+margin-top: 60px;
+}
+.aboute__name{
+font-size: 22px;
+}
+.about__dop{
+margin-bottom: 0;
 }
