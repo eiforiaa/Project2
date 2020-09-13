@@ -50,18 +50,19 @@ height: 95vh;
 	margin-bottom: 127px;
 
 }
-.logo{
-
-}
-
-.search{
-/*background: transparent;*/
+/*.search{
+/*background: transparent;
 border: none;
 }
 .menu{
-/*background: transparent;*/
+/*background: transparent;
 border: none;
 }
+.logo{
+
+}
+*/
+
 .offer-cont__title{
 	font-size: 60px;
 	letter-spacing: -0.01em;
@@ -124,10 +125,10 @@ position: static;
 }
 .about__author{
 background: url('../img/author.jpg') no-repeat left center;
-padding-left: 96px;
+/*padding-left: 96px;*/
 /*height: 65px;*/
 padding: 7px 0 7px 96px;
-margin-top: 60px;
+margin-top: 61px;
 }
 .aboute__name{
 font-size: 22px;
@@ -152,6 +153,8 @@ margin-bottom: 40px;
 }
 .serv-list{
 color: #606060;
+margin-top: 67px;
+
 }
 .serv-list__item{
 margin-bottom: 20px;
